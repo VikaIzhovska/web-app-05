@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ViktoriiaIzhovska/web-app-05/issues"
   },
-  "homepage": "https://github.com/ViktoriiaIzhovska/web-app-05#readme"
+  "homepage": "https://github.com/ViktoriiaIzhovska/web-app-05#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
